@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.jumbotron {
+  margin: 30px auto;
+  text-align: center;  
+}
+.degree {
+  color: teal;
+  border: none;
+  padding: 2px 5px;
+  background-color: #eee;;
+}
+.container {
+  margin: 40px auto;
+  border-radius: 10px;
+  background-color: #1e95e0;
+}
